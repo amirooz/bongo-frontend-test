@@ -1,0 +1,16 @@
+<phpunit bootstrap="vandor/autoload.php"
+         colors="true"
+         convertErrorsToExceptions="true"
+         convertNoticesToExceptions="true"
+         convertWarningToExceptions="true"
+         processIsolation="false"
+         stopOnFailure="true"
+         syntexCheck="false">
+
+  <testsuites>
+    <testsuite name="All Tests">
+      <directory>tests</directory>
+    </testsuite>
+  </testsuites>
+
+</phpunit>
