@@ -2,7 +2,7 @@
       <div class="container">
         <div class="row">
           <div class="col l6 s12">
-            <h5 class="white-text">Bongo</h5>
+            <h5 class="white-text">MD. Amir Hossain</h5>
             <ul>
               <li><a class="grey-text text-lighten-3" href="https://github.com/amirphp7/bongo-frontend-test">Github</a></li>
               <li><a class="grey-text text-lighten-3" href="https://www.linkedin.com/in/amirphp7/">LinkedIn</a></li>
