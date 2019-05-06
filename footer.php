@@ -3,7 +3,10 @@
         <div class="row">
           <div class="col l6 s12">
             <h5 class="white-text">Bongo</h5>
-            <p class="grey-text text-lighten-4">You can use rows and columns here to organize your footer content.</p>
+            <ul>
+              <li><a class="grey-text text-lighten-3" href="https://github.com/amirphp7/bongo-frontend-test">Github</a></li>
+              <li><a class="grey-text text-lighten-3" href="https://www.linkedin.com/in/amirphp7/">LinkedIn</a></li>
+            </ul>
           </div>
           <div class="col l4 offset-l2 s12">
             <h5 class="white-text">Interview</h5>
@@ -17,7 +20,7 @@
       </div>
       <div class="footer-copyright">
         <div class="container">
-        © 2019 Bongo
+        © 2019 Bongo Built & Managed with Love by Amir Hossain.
         <a class="grey-text text-lighten-4 right" href="#!">Sitemap</a>
         </div>
       </div>
